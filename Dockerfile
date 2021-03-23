@@ -28,6 +28,6 @@ LABEL org.label-schema.schema-version="1.0" \
       org.label-schema.description="JTS3ServerMod is a Teamspeak 3 server bot written in Java language" \
       org.label-schema.url="https://www.stefan1200.de/forum/index.php?topic=85.0" \
       org.label-schema.usage="https://www.stefan1200.de/documentation/jts3servermod_mysql/readme.html" \
-      org.label-schema.vcs-url="https://github.com/EvilBlood/docker-JTS3ServerMod" \
+      org.label-schema.vcs-url="https://github.com/EvilBlood/docker-JTS3ServerMod_HostingEdition" \
       org.label-schema.vcs-ref=${VCS_REF} \
       org.label-schema.vendor="EvilBlood"
